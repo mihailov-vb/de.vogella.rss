@@ -1,4 +1,4 @@
-package de.vogella.rss.model;
+package RSS_FEEDER.model;
 
 public class FeedMessage {
 	String title;
@@ -48,9 +48,9 @@ public class FeedMessage {
 	}
 
 	@Override
-	public String toString() {
-		return "FeedMessage [title=" + title + ", description=" + description
-				+ ", link=" + link + ", author=" + author + ", guid=" + guid
-				+ "]";
+	public String toString() { // вывод записи (почему то не выводит description и guid
+		return "FeedMessage [title= {" + title + "}, description= {" + description
+				+ "}, link= {" + link + "}, author= {" + author + "}, guid= {" + guid
+				+ "}]";
 	}
 }

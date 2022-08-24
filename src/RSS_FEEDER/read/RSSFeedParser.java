@@ -1,4 +1,4 @@
-package de.vogella.rss.read;
+package RSS_FEEDER.read;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -11,8 +11,8 @@ import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.events.Characters;
 import javax.xml.stream.events.XMLEvent;
 
-import de.vogella.rss.model.Feed;
-import de.vogella.rss.model.FeedMessage;
+import RSS_FEEDER.model.Feed;
+import RSS_FEEDER.model.FeedMessage;
 
 public class RSSFeedParser {
 	static final String TITLE = "title";

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/de.vogella.rss.iml" filepath="$PROJECT_DIR$/de.vogella.rss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSS_FEEDER.iml" filepath="$PROJECT_DIR$/RSS_FEEDER.iml" />
     </modules>
   </component>
 </project>

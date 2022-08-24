@@ -1,4 +1,4 @@
-package de.vogella.rss.model;
+package RSS_FEEDER.model;
 
 import java.util.ArrayList;
 import java.util.List;
